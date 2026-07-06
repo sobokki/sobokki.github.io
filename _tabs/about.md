@@ -24,4 +24,3 @@ order: 4
 ## 링크
 
 - GitHub — [github.com/sobokki](https://github.com/sobokki)
-- 포트폴리오 — [sobokkiworld.vercel.app](https://sobokkiworld.vercel.app)
