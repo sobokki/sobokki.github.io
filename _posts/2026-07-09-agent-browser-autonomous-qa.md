@@ -11,7 +11,7 @@ tags: [claude-code, agent-browser, qa, playwright, youtube]
 낯설었다. 배포 전 QA를 사람이 도는 게 당연했으니까. 그러다 이 영상을 보고 "아, 검증까지
 AI한테 넘기면 되는구나"가 딱 잡혔다.
 
-{% raw %}{% include embed/youtube.html id='IZ73rmVV7BQ' %}{% endraw %}
+{% include embed/youtube.html id='IZ73rmVV7BQ' %}
 
 > 채널: 가장 쉬운 AI 활용 개발 with Boaz · 길이 13:40
 

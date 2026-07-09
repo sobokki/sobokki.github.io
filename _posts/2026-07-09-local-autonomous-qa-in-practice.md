@@ -17,6 +17,10 @@ tags: [claude-code, agent-browser, qa, spec-driven, workflow]
 보고 "이거다" 싶었다. AI가 실제 브라우저를 몰아 사람처럼 테스트하는 그 방식을, 내 업무
 프론트엔드의 **배포 전 로컬 게이트**로 써보기로 했다.
 
+{% include embed/youtube.html id='IZ73rmVV7BQ' %}
+
+> 이 글의 출발점이 된 영상 · 채널: 가장 쉬운 AI 활용 개발 with Boaz
+
 ## 해결 과정
 
 ### 1. 두 가지 테스트를 구분하는 것부터
